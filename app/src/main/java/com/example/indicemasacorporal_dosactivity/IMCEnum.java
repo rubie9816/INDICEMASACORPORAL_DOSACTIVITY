@@ -1,0 +1,8 @@
+package com.example.indicemasacorporal_dosactivity;
+
+enum IMC {
+    VERY_SEVERELY_UNDER_WEIGHT, SEVERELY_UNDER_WEIGHT,
+    UNDER_WEIGHT, NORMAL, OVER_WEIGHT, MODERATELY_OBESE,
+    SEVERELY_OBESE, VERY_SEVERELY_OBESE;
+}
+
